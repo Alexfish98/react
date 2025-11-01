@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "/static/css/main.2b527893.css",
-    "main.js": "/static/js/main.c7876c8d.js",
+    "main.css": "/static/css/main.d62da58b.css",
+    "main.js": "/static/js/main.cee0f6f8.js",
     "static/js/453.40dd3601.chunk.js": "/static/js/453.40dd3601.chunk.js",
     "static/media/KaTeX_AMS-Regular.ttf": "/static/media/KaTeX_AMS-Regular.853be92419a6c3766b9a.ttf",
     "static/media/KaTeX_Main-Regular.ttf": "/static/media/KaTeX_Main-Regular.9eba1d77abcf2aa6e94e.ttf",
@@ -154,12 +154,12 @@
     "index.html": "/index.html",
     "static/media/roboto-greek-ext-400-normal.woff": "/static/media/roboto-greek-ext-400-normal.85384e1ce5cc0ef0c609.woff",
     "static/media/roboto-greek-ext-700-normal.woff": "/static/media/roboto-greek-ext-700-normal.f54f1cebdcefe4af6446.woff",
-    "main.2b527893.css.map": "/static/css/main.2b527893.css.map",
-    "main.c7876c8d.js.map": "/static/js/main.c7876c8d.js.map",
+    "main.d62da58b.css.map": "/static/css/main.d62da58b.css.map",
+    "main.cee0f6f8.js.map": "/static/js/main.cee0f6f8.js.map",
     "453.40dd3601.chunk.js.map": "/static/js/453.40dd3601.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.2b527893.css",
-    "static/js/main.c7876c8d.js"
+    "static/css/main.d62da58b.css",
+    "static/js/main.cee0f6f8.js"
   ]
 }
