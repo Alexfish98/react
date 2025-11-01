@@ -1,5 +1,0 @@
-# robots.txt for AwroraIQ
-User-agent: *
-Disallow:
-
-Sitemap: https://www.awroraiq.com/sitemap.xml
