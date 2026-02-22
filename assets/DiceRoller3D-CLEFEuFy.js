@@ -1,0 +1,4 @@
+import{r,j as e,a5 as i}from"./index-DCjzbjsf.js";const c=()=>{const[a,l]=r.useState(1),[t,s]=r.useState(!1),o=()=>{t||(s(!0),setTimeout(()=>{l(Math.floor(Math.random()*6)+1),s(!1)},1e3))};return e.jsxs("div",{className:"max-w-md mx-auto space-y-12 text-center",children:[e.jsx("div",{className:"perspective-1000 h-48 flex items-center justify-center",children:e.jsx("div",{className:`
+            relative w-24 h-24 transform-style-3d transition-transform duration-1000
+            ${t?"animate-spin-3d":""}
+          `,children:e.jsx("div",{className:"absolute inset-0 bg-white border-2 border-gray-300 rounded-xl flex items-center justify-center text-4xl font-bold shadow-lg",children:t?"?":a})})}),e.jsxs("button",{onClick:o,className:"px-8 py-3 bg-primary-600 hover:bg-primary-700 text-white rounded-xl font-bold transition-colors flex items-center justify-center gap-2 mx-auto",children:[e.jsx(i,{})," Roll Dice"]})]})};export{c as default};
